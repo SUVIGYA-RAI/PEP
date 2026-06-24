@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
+
+    // Linear Search 
     int arr[] = {3,5,1,12,36,32,4};
     int key=12;
 
